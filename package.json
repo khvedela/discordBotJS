@@ -1,0 +1,15 @@
+{
+  "name": "botjs",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khvedelidze",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "giphy-js-sdk-core": "^1.0.6"
+  }
+}
